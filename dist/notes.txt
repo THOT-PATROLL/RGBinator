@@ -1,0 +1,2 @@
+so this is version one, its in the early stages and is missing a few features. currently it can only add 
+glowing textures to melee weapons. it also only has one render remplate
